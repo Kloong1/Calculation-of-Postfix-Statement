@@ -1,0 +1,6 @@
+This program is to claculate postfix statement using stack.
+
+Input postfix statement to postfix.txt
+ - available only single digit
+ - no blank space
+ - should be end with '#'
